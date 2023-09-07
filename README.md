@@ -16,7 +16,7 @@ The main goal of this repository is to be a good template to start any Laravel p
 - [x] Pure Laravel 10 without customization
 - [x] AlpineJs
 - [x] TailwindCSS
-- [x] Livewire 3 3 without customization
+- [x] Livewire 3 without customization
 - [x] FilamentPhp
   - [x] Added Laravel Breezy Plugin
 - [x] PostCSS
