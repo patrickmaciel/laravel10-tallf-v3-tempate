@@ -21,8 +21,8 @@ The main goal of this repository is to be a good template to start any Laravel p
 - [x] FilamentPhp 3 without customization
 - [x] PostCSS
 - [x] Sass
-- [ ] Setup Breeze
-- [ ] Setup Breeze with FilamentPHP
+- [x] Setup Breeze
+- [x] Setup Breeze with FilamentPHP
 - [ ] Create a good welcome page
 
 ---
