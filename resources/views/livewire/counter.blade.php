@@ -1,5 +1,5 @@
 <div>
-    <h1>Counter</h1>
+    <h1>Componente Livewire</h1>
 
     <p>Contador: {{ $counter }}</p>
 
@@ -10,7 +10,7 @@
 
     <div x-data="{ mostraDiv: false }">
         <button type='button' x-on:click="mostraDiv = !mostraDiv">Mostra Inputs</button>
-        <div x-show="mostraDiv">
+        <div x-show="mostraDiv" x-cloak>
             <input type="text" id="nome" wire:model.live="nome">
             <p>Meu nome é {{ $nome }}</p>
         </div>
