@@ -4,6 +4,10 @@ export default {
     "./vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php",
     "./storage/framework/views/*.php",
     "./resources/views/**/*.blade.php",
+    './resources/views/filament/**/*.blade.php',
+    './resources/views/filament/resources/**/*.blade.php',
+    './app/Filament/**/*.php',
+    './vendor/filament/**/*.blade.php',
   ],
   theme: {
     extend: {
